@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.orange{
+    color: orange;
+}
+.welcome{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 20px;
+    
+    
+    
+}
+.mazhar{
+    display: flex;
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+.buton{
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+        
+}
